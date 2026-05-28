@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.linha{
+    display: flex;
+}
+.foto{
+    border: solid 2px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
