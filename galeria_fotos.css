@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    margin: 10px;
+}
 .linha{
     display: flex;
 }

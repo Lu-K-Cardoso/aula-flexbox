@@ -1,0 +1,30 @@
+body{
+    margin: 10px;
+}
+.linha{
+    display: flex;
+}
+.foto{
+    margin-right: 30px;
+    margin-bottom: 30px;
+    height: 500px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(177, 177, 177, 1);
+}
+.des{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+button{
+    width: 162px;
+    height: 35px;
+    border: none;
+}
+#bt1{
+    color: white;
+    background-color: gray;
+    cursor: pointer;
+}
+#bt1:hover{
+    background-color: rgb(67, 67, 67);
+}
